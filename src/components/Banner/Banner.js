@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Cryptocurrency Dashboard
+            Cryptobase
           </Typography>
           <Typography
             variant="subtitle2"
