@@ -12,7 +12,7 @@ const useStyles = makeStyles(() => ({
     color: "white",
     minHeight: "100vh",
   },
-}));
+}))
 
 function App() {
   const classes = useStyles();
